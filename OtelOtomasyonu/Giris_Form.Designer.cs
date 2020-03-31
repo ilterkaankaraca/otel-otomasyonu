@@ -62,7 +62,7 @@
             this.Giris_Butonu.TabIndex = 2;
             this.Giris_Butonu.Text = "Giris";
             this.Giris_Butonu.UseVisualStyleBackColor = false;
-            this.Giris_Butonu.Click += new System.EventHandler(this.Giris_Bbutonu_Click);
+            this.Giris_Butonu.Click += new System.EventHandler(this.Giris_Butonu_Click);
             // 
             // label1
             // 

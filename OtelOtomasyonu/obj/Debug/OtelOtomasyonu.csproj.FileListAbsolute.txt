@@ -58,3 +58,15 @@ C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları
 C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Guncelleme_Form.resources
 C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Yonetici_Form.resources
 C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojAssemblyReference.cache
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Giris_Form.resources
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Guncelle_Form.resources
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Personel_Form.resources
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Ekle_Form.resources
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Ekle_Form.resources
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Guncelleme_Form.resources
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Yonetici_Form.resources
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+E:\Repos\otel-otomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe

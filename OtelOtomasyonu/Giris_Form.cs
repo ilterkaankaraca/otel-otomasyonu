@@ -20,7 +20,7 @@ namespace OtelOtomasyonu
             InitializeComponent();
         }
 
-        private void Giris_Bbutonu_Click(object sender, EventArgs e)
+        private void Giris_Butonu_Click(object sender, EventArgs e)
         {
             if (ConnectionState.Closed == Program.baglan.State)
                 Program.baglan.Open();

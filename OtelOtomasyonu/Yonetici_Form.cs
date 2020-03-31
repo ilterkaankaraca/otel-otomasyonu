@@ -15,7 +15,7 @@ namespace OtelOtomasyonu
         VeriTabani vt = new VeriTabani();
         DataGridViewCellEventArgs k;
         public Form frm;
-        public int cell;
+        private int cell=0;
         
         
         public Yonetici_Form()
@@ -27,7 +27,7 @@ namespace OtelOtomasyonu
         {
             
             vt.Listele("girisbilgileri");
-            s = 0;
+            cell = 0;
             dataGridView1.DataSource = VeriTabani.tablo;
             dataGridView1.Columns[0].HeaderText = "Kullanici Adi";
             dataGridView1.Columns[1].HeaderText = "Sifre";
@@ -71,7 +71,7 @@ namespace OtelOtomasyonu
         }
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (s == 0)
+            if (cell == 0)
             {
                 if (e.RowIndex >= 0)
                 {
@@ -85,7 +85,7 @@ namespace OtelOtomasyonu
         }
         private void guncelle_buton_Click(object sender, EventArgs e)
         {
-            if (s == 0)
+            if (cell == 0)
             {
                 if (k.RowIndex >= 0)
                 {
@@ -109,7 +109,7 @@ namespace OtelOtomasyonu
         private void girisToolStripMenuItem_Click(object sender, EventArgs e)
         {
             vt.Listele("log");
-            s = 1;
+            cell = 1;
             guncelle_buton.Hide();
             sil_button.Hide();
             dataGridView1.DataSource = VeriTabani.tablo;
@@ -129,7 +129,7 @@ namespace OtelOtomasyonu
         private void kullanıcıBilgileriToolStripMenuItem_Click(object sender, EventArgs e)
         {
             vt.Listele("girisbilgileri");
-            s = 0;
+            cell = 0;
             dataGridView1.DataSource = VeriTabani.tablo;
             dataGridView1.Columns[0].HeaderText = "Kullanici Adi";
             dataGridView1.Columns[1].HeaderText = "Sifre";
