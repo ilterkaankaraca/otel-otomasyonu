@@ -1,0 +1,60 @@
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Giris_Form.resources
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Personel_Form.resources
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Yonetici_Form.resources
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Ekle_Form.resources
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Ekle_Form.resources
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Guncelleme_Form.resources
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\İlterkaan Karaca\Documents\Visual Studio 2013\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Guncelle_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Giris_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Guncelle_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Personel_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Ekle_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Ekle_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Guncelleme_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Yonetici_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\İlterkaan Karaca\Desktop\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojResolveAssemblyReference.cache
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojResolveAssemblyReference.cache
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Giris_Form.resources
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Guncelle_Form.resources
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Personel_Form.resources
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Ekle_Form.resources
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Ekle_Form.resources
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Guncelleme_Form.resources
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Yonetici_Form.resources
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+E:\Dersler ve Türevleri\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Giris_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Guncelle_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Personel_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.M_Ekle_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Ekle_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.P_Guncelleme_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Yonetici_Form.resources
+C:\Users\İlterkaan Karaca\Desktop\okul\14545018_Ilterkaan_Karaca\Proje Kodları\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
